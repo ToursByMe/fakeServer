@@ -1,0 +1,21 @@
+{
+  "name": "fakeserver",
+  "version": "1.0.0",
+  "description": "first try in creation of fake API through Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "heroku",
+    "fakeApi",
+    "API",
+    "json"
+  ],
+  "author": "Robert Garcia",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
